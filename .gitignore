@@ -1,0 +1,6 @@
+# Oculta arquivos desnecessários no Git
+*.log
+*.apk
+*.aia
+.DS_Store
+Thumbs.db
