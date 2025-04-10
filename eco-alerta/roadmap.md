@@ -1,8 +1,8 @@
 ## Roadmap
 
 - [x] Definir ideia
-- [ ] Pesquisa e Referências
-- [ ] Design do App
+- [x] Pesquisa e Referências
+- [x] Design do App
 - [ ] Criar protótipo no MIT App Inventor
 - [ ] Testar com usuários
 - [ ] Vídeo de Apresentação
