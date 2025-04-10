@@ -1,65 +1,56 @@
-# 🌊 Eco Alerta – Inteligência Colaborativa pela Vida Marinha
+# 🌊 Eco Alert
 
-**Eco Alerta** é um aplicativo colaborativo com inteligência artificial, desenvolvido no **MIT App Inventor** para o **Global AI Hackathon 2025**, promovido pelo MIT RAISE e pela App Inventor Foundation.
+**Eco Alert** é um aplicativo educativo e colaborativo criado com o MIT App Inventor, com o objetivo de proteger os ecossistemas marinhos e aumentar a conscientização sobre a importância da vida no oceano. Desenvolvido como parte do Global AI Hackathon 2025, o app usa inteligência artificial para apoiar ações de preservação ambiental de forma acessível e impactante.
 
-Nosso objetivo é capacitar cidadãos comuns e comunidades costeiras a reportarem, monitorarem e visualizarem ameaças ao ecossistema marinho — como poluição, pesca ilegal e eventos climáticos extremos — com o apoio da IA e de uma rede de colaboração ativa e acessível.
+## 💡 Propósito
 
----
+Combater ameaças à vida marinha como poluição, pesca ilegal, eventos climáticos extremos e desastres industriais por meio da participação ativa da comunidade e da tecnologia. Nosso foco está em empoderar cidadãos para agirem com base em conhecimento, colaboração e inovação.
 
-## 🌟 Funcionalidades principais
+## 🧠 Funcionalidades com IA
 
-- 📍 Criação de alertas com localização, imagem e descrição
-- 🤖 Classificação automatizada dos alertas com IA
-- 🗺️ **Mapa dinâmico** com marcadores indicando áreas com maior risco ambiental
-- 🧠 Sessão educativa sobre ameaças ambientais e ações conscientes
-- 📶 Modo offline para uso em áreas com baixa conectividade
-- 👵 Interface acessível para todas as gerações
+- **Classificação Inteligente de Alertas**: IA que analisa e categoriza relatos de ameaças marinhas enviados por usuários.
+- **Reconhecimento de Imagens** (futuro): IA que identifica tipos de poluição ou animais marinhos em risco a partir de fotos.
+- **Chat Educativo com IA**: Um assistente virtual que responde perguntas sobre preservação marinha.
+- **Análise de Dados Ambientais**: IA que interpreta dados e tendências de poluição e eventos climáticos (em desenvolvimento).
 
----
+## 📱 Funcionalidades Gerais
 
-## 💡 Tecnologias utilizadas
+- Tela de login e boas-vindas
+- Registro de alertas ambientais
+- Mapa interativo com visualização de ocorrências
+- Seção educativa com vídeos, artigos e quizzes
+- Estatísticas de impacto
+- Modo offline (básico)
+- Acessibilidade e linguagem simples
 
-- MIT App Inventor
-- Extensões de IA para classificação de imagem, texto e som
-- Google Maps API via componente nativo do App Inventor
-- Recursos e suporte do Day of AI
+## 🚀 Tecnologias Utilizadas
 
----
+- **MIT App Inventor**
+- **Extensões de IA** (Google Teachable Machine, Personal Image Classifier, etc.)
+- APIs para mapas e dados ambientais
+- Google Sheets/Cloud para backend leve
 
-## 👨‍👩‍👧‍👦 Equipe Eco Alerta
+## 👥 Equipe
 
-- Ester Araújo – Líder do Projeto / Desenvolvedora
-- [Nome 2] – Design e UX
-- [Nome 3] – Documentação e Conteúdo Educativo
-- [Nome 4] – Testes e Validação
-- [Nome 5] – Suporte Técnico e Dados
-- [Nome 6] – Coordenação de Submissão
+Estudantes apaixonados por tecnologia e sustentabilidade, participantes do Global AI Hackathon 2025.
 
----
+## 🧪 Como testar
 
-## 🚀 Como testar
+O app pode ser testado no MIT AI2 Companion:
+1. Acesse o [MIT App Inventor](https://ai2.appinventor.mit.edu/)
+2. Faça login e importe o arquivo `.aia`
+3. Use o AI2 Companion para testar no seu dispositivo
 
-1. Faça o download do arquivo `.aia` disponível na pasta `mit-app-inventor`
-2. Acesse o [MIT App Inventor](https://appinventor.mit.edu/)
-3. Clique em **"Importar projeto (.aia) do meu computador"**
-4. Execute o app com o **AI2 Companion** ou gere o `.apk`
 
----
+## 🌐 Hackathon
+
+Projeto submetido ao **Global AI Hackathon 2025** — Tema: *AI for Social Impact*. Organizado pelo MIT RAISE e App Inventor Foundation.
+
 
 ## 🧾 Licença
 
 Este projeto está licenciado sob a MIT License – veja o arquivo LICENSE para detalhes.
 
----
-
-## 📌 Submissão Hackathon
-
-- Evento: **Global AI Hackathon 2025**
-- Tema: **IA com Impacto Social**
-- Prazo de envio: **14 de abril de 2025 – 23:59 AOE**
-- Organização: MIT RAISE & App Inventor Foundation
-
----
 
 ## 💙 Missão
 
